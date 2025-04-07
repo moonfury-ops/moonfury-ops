@@ -1,6 +1,6 @@
 <h1 align="center">
  <a href="https://github.com/devrose04">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+&+Blockchain+Engineer;&center=true&width=450&height=50&font=georgia">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+ & +Blockchain+Engineer;&center=true&width=450&height=50&font=georgia">
   </a>
 </h1>
 
