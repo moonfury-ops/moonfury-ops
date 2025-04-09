@@ -1,4 +1,4 @@
-## Skills
+## Tech
 <div align="left">
   <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/solidity/white" />
