@@ -97,5 +97,4 @@
 
 ## Github Contributions
 - [Akash Network] : https://github.com/akash-network
-- [Xelis] : https://github.com/xelis-project/
 - [Commune AI] : https://github.com/commune-ai
