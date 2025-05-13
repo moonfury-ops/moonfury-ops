@@ -312,7 +312,10 @@ Now we are adding more features for Nanas.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
 
-## Technology Stack
+</tr>
+<tr>
+<td>
+  ## Technology Stack
 <div align="left">
   <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/solidity/white" />
@@ -411,3 +414,7 @@ Now we are adding more features for Nanas.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div> 
+</td>
+</tr>
+</table>
+
