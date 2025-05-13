@@ -48,7 +48,6 @@ Mint USDH against multiple types of collateral. Repay whenever you want.<br />
 
 <br />
 <br />
-<br />
 
 
 <h3><u><strong><i>Privi Protocol</i></strong></u> &nbsp;(ETHERUM | BSC | POLKADOT)</h3>
@@ -136,12 +135,11 @@ positive reinforcement with engaging and understanding members !
 <br />
 <br />
 <br />
+<br />
+<br />
 
 
 
-
- 
- 
 <h3><u><strong><i>FLWR Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
@@ -160,11 +158,8 @@ Staking an SPL token "FLWR"
 - Original Link: <a href="https://dex.solflowers.io" target="_blank">FLOWERS Solana Marketplace</a>
 
 
-
-
-
-<h3><u><strong>SOL Flowers | Raffle</strong></u> &nbsp;(Solana)</h3>
-<hr />
+<br />
+<br />
 
 
 <h3><u><strong>EU(Eternal Underworld) Raffle</strong></u> &nbsp;(Solana)</h3>
@@ -229,6 +224,9 @@ Now we are adding more features for Nanas.
   (Current Staking is updating.... so It's down now)
 
 
+<br />
+<br />
+<br />
 
 
 <h3><u><strong><i>97 Universe Minting Page</i></strong></u> &nbsp;(Solana)</h3>
@@ -252,8 +250,9 @@ Now we are adding more features for Nanas.
 - $PARTS token: <a href="https://solscan.io/token/2PcxBC6AZXPTadHWwBdxcnkrdJVmoGZ2raMLstDQcpJk" target="_blank">$PARTS token</a>
 - You can find me at Team member page name is `Venture` as `Dev, Tokenomics and Integration's` <a href="https://www.solspacemen.com/meet-the-team-1" target="_blank">here</a>
 
-
-
+<br />
+<br />
+<br />
 
 
 ## 🏆 GitHub Trophies
