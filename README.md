@@ -31,6 +31,8 @@ Mint USDH against multiple types of collateral. Repay whenever you want.
 - Live: <a href="https://www.hubbleprotocol.io/">Hubble Protocol</a>
 
 
+
+
 <h3><u><strong><i>Rowship</i></strong></u> &nbsp;(ETHEREUM)</h3>
 <hr />
 
@@ -42,6 +44,9 @@ Supercharge Your Liquidity On Solana<br />
 Mint USDH against multiple types of collateral. Repay whenever you want.<br />
 
 - Live: <a href="https://rowship.com/">Rowship</a>
+
+
+
 
 
 <h3><u><strong><i>Privi Protocol</i></strong></u> &nbsp;(ETHERUM | BSC | POLKADOT)</h3>
@@ -101,6 +106,9 @@ Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
 - Original Link: <a href="https://www.kingdomofdwarves.io" target="_blank">Kingdom of Dwarves</a>
 - KOD Lore: <a href="https://kod-app.netlify.app/" target="_blank">KoD-Story</a>
  
+
+
+
  
 <h3><u><strong><i>The Shiny APES</i></strong></u> &nbsp;(ETHEREUM)</h3>
 <hr />
@@ -126,6 +134,10 @@ positive reinforcement with engaging and understanding members !
 <br />
 <br />
 <br />
+
+
+
+
  
  
 <h3><u><strong><i>FLWR Staking</i></strong></u> &nbsp;(Solana)</h3>
@@ -144,6 +156,10 @@ Staking an SPL token "FLWR"
   - transaction fee - 0.1 sol
   - penalties for early withdrawl - 6/12/24%
 - Original Link: <a href="https://dex.solflowers.io" target="_blank">FLOWERS Solana Marketplace</a>
+
+
+
+
 
 <h3><u><strong>SOL Flowers | Raffle</strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -169,6 +185,9 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
   - Auction: <a href="https://daku-reapers.auction" target="_blank">Daku-Reapers Auction</a>
   - Staking: <a href="https://daku-reaper-staking.vercel.app" target="_blank">Daku-Reapers Staking</a>
 
+
+
+
 <h3><u><strong>MetaKongz Raffle</strong></u> &nbsp;(Solana)</h3>
 <hr />
 
@@ -185,6 +204,9 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
 - Original Links:
   - Website: <a href="https://www.metakongz.art" target="_blank">MetaKongz</a>
   - Staking: <a href="https://metakongz-staking.vercel.app" target="_blank">MetaKongz Staking</a>
+
+
+
 
 <h3><u><strong><i>Arena Launchpad</i></strong></u> &nbsp;(Cronos-EVM)</h3>
 <hr />
@@ -203,6 +225,9 @@ Now we are adding more features for Nanas.
 - Sol version: <a href="https://www.niftynanas.com/sol" target="_blank">Sol Nanas</a>
 - Sol Staking: <a href="https://staking.niftynanas.com" target="_blank">Staking Nanas</a>
   (Current Staking is updating.... so It's down now)
+
+
+
 
 <h3><u><strong><i>97 Universe Minting Page</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -224,6 +249,10 @@ Now we are adding more features for Nanas.
 - Earth is quickly becoming uninhabitable and we need to begin deployment of the materials and resources needed to start construction in the Solanaverse
 - $PARTS token: <a href="https://solscan.io/token/2PcxBC6AZXPTadHWwBdxcnkrdJVmoGZ2raMLstDQcpJk" target="_blank">$PARTS token</a>
 - You can find me at Team member page name is `Venture` as `Dev, Tokenomics and Integration's` <a href="https://www.solspacemen.com/meet-the-team-1" target="_blank">here</a>
+
+
+
+
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)
