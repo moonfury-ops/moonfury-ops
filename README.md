@@ -32,10 +32,6 @@ Mint USDH against multiple types of collateral. Repay whenever you want.
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-
 
 
 <h3><u><strong><i>Rowship</i></strong></u> &nbsp;(ETHEREUM)</h3>
@@ -50,8 +46,9 @@ Mint USDH against multiple types of collateral. Repay whenever you want.<br />
 
 - Live: <a href="https://rowship.com/">Rowship</a>
 
-
-
+<br />
+<br />
+<br />
 
 
 <h3><u><strong><i>Privi Protocol</i></strong></u> &nbsp;(ETHERUM | BSC | POLKADOT)</h3>
