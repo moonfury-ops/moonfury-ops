@@ -314,10 +314,11 @@ Now we are adding more features for Nanas.
 
 </tr>
 <tr>
-<td>
+<td valign="top" width="100%">
   ## Technology Stack
 <div align="left">
-  <picture>
+     <img width="12" />
+     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/solidity/white" />
         <source media="(prefers-color-scheme: light)"
             srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
