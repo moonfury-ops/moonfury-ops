@@ -254,12 +254,6 @@ Now we are adding more features for Nanas.
 <br />
 <br />
 
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)
-
- <br>
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
