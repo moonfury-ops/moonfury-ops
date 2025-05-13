@@ -19,9 +19,6 @@ WETH-DAI 0.3% at an emissions rate of 396.8 OP / day for two weeks<br />
 ...
 
 - Live: <a href="https://gamma.xyz">Gamma Finance</a>
-- Github: <a href="https://github.com/GammaStrategies">Gamma Finance Github</a>
-
-
 
 <h3><u><strong><i>Hubble Protocol</i></strong></u> &nbsp;(SOLANA)</h3>
 <hr />
@@ -32,7 +29,6 @@ Supercharge Your Liquidity On Solana
 Mint USDH against multiple types of collateral. Repay whenever you want.
 
 - Live: <a href="https://www.hubbleprotocol.io/">Hubble Protocol</a>
-- Github: <a href="https://github.com/hubbleprotocol">Hubble Protocol Github</a>
 
 
 <h3><u><strong><i>Rowship</i></strong></u> &nbsp;(ETHEREUM)</h3>
@@ -90,8 +86,6 @@ A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (
       - 25% bonus on the sum of the rarity multiplier.
 - Magic Eden: <a href="https://www.magiceden.io/marketplace/baby_ape_social_club">Buy BASC</a>
 - Offical Links: <a href="https://www.babyapesocialclub.com">BASC (Baby Ape Social Club)</a>
-- Github Repo: <a href="https://github.com/best-lucky1030/BASC-NFT-Staking">BASC-NFT-Staking</a>
-
 
 <h3><u><strong><i>Kingdom of Dwarves - Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -105,7 +99,6 @@ Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
   - users can reward according to their NFT rare
   - Whenever you want. But keep in mind that you won't be able to get any more staking income.
 - Original Link: <a href="https://www.kingdomofdwarves.io" target="_blank">Kingdom of Dwarves</a>
-- Github repo: <a href="https://github.com/best-lucky1030/Dwarves-staking" target="_blank">Dwarves-staking</a>
 - KOD Lore: <a href="https://kod-app.netlify.app/" target="_blank">KoD-Story</a>
  
  
@@ -151,7 +144,6 @@ Staking an SPL token "FLWR"
   - transaction fee - 0.1 sol
   - penalties for early withdrawl - 6/12/24%
 - Original Link: <a href="https://dex.solflowers.io" target="_blank">FLOWERS Solana Marketplace</a>
-- Github repo : <a href="https://github.com/best-lucky1030/FLWR-staking" target="_blank">FLWR-staking</a>
 
 <h3><u><strong>SOL Flowers | Raffle</strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -176,7 +168,6 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
   - Website: <a href="https://www.daku-reapers.com" target="_blank">Daku-Reapers Ressurection</a>
   - Auction: <a href="https://daku-reapers.auction" target="_blank">Daku-Reapers Auction</a>
   - Staking: <a href="https://daku-reaper-staking.vercel.app" target="_blank">Daku-Reapers Staking</a>
-- Github repo: <a href="https://github.com/best-lucky1030/EU-raffle" target="_blank">EU-raffle</a>
 
 <h3><u><strong>MetaKongz Raffle</strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -194,7 +185,6 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
 - Original Links:
   - Website: <a href="https://www.metakongz.art" target="_blank">MetaKongz</a>
   - Staking: <a href="https://metakongz-staking.vercel.app" target="_blank">MetaKongz Staking</a>
-- Github repo: <a href="https://github.com/best-lucky1030/raffle-auction-prospect3" target="_blank">raffle-auction-prospect3</a>
 
 <h3><u><strong><i>Arena Launchpad</i></strong></u> &nbsp;(Cronos-EVM)</h3>
 <hr />
@@ -213,8 +203,6 @@ Now we are adding more features for Nanas.
 - Sol version: <a href="https://www.niftynanas.com/sol" target="_blank">Sol Nanas</a>
 - Sol Staking: <a href="https://staking.niftynanas.com" target="_blank">Staking Nanas</a>
   (Current Staking is updating.... so It's down now)
-  
-- Git repo: <a href="https://github.com/best-lucky1030/cronos_nanas_launchpad" target="_blank">cronos_nanas_launchpad</a>
 
 <h3><u><strong><i>97 Universe Minting Page</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -226,7 +214,6 @@ Now we are adding more features for Nanas.
 - What is `97 Universe` ?
   - 497 AI-androids called “97s” were created to compete with some of the greatest athletes on Earth. 97s were so good that humans no longer saw a reason to compete. After boredom struck, the 97s decided to leave Earth and test their skills against the universe. They built a space stadium where challengers from all over the galaxy can compete. Remaining undefeated the 97s decided to claim the universe, calling it `“The 97 Universe”`.
 - Whitepaper: <a href="https://97-universe.gitbook.io/the-97-universe" target="_blank">Gitbook</a>
-- Github repo: <a href="https://github.com/best-lucky1030/Universe97" target="_blank">Universe97</a>
 
 <h3><u><strong><i>Sol Spacemen</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -237,13 +224,11 @@ Now we are adding more features for Nanas.
 - Earth is quickly becoming uninhabitable and we need to begin deployment of the materials and resources needed to start construction in the Solanaverse
 - $PARTS token: <a href="https://solscan.io/token/2PcxBC6AZXPTadHWwBdxcnkrdJVmoGZ2raMLstDQcpJk" target="_blank">$PARTS token</a>
 - You can find me at Team member page name is `Venture` as `Dev, Tokenomics and Integration's` <a href="https://www.solspacemen.com/meet-the-team-1" target="_blank">here</a>
-- Git repo: <a href="https://github.com/best-lucky1030/token-list" target="_blank">Space Parts</a>
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)
 
  <br>
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -305,7 +290,3 @@ Now we are adding more features for Nanas.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div> 
-
-## Github Contributions
-- [Akash Network] : https://github.com/akash-network
-- [Commune AI] : https://github.com/commune-ai
