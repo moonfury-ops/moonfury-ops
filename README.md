@@ -1,4 +1,4 @@
-# Projects participated during development<br /> ( EVM | SOL | BSC | COSMOS | NEAR )
+# Projects participated during development<br /> ( EVM | SOL | BSC | Bittensor | Polkadot | ICP | TON )
 
 Here are the projects I've participated so far.
 
