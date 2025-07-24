@@ -1,5 +1,5 @@
 AI : 
-Python, Django, Tensorflow
+PYTHON, DJANGO, TENSORFLOW
 
-Blockchain :
+BLOCKCHAIN :
 EVM | SOL | BSC | BITTENSOR | POLKADOT | ICP | TON 
