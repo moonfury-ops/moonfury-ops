@@ -1,5 +1,3 @@
-AI & Blockchain Developer
-
 AI : 
 Python, Django, Tensorflow
 
