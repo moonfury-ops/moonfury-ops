@@ -1,7 +1,7 @@
 AI & Blockchain Engineer
 
-AI Tech Stack: 
+AI : 
 Python, Django, Tensorflow
 
-Blockchain Tech Stack:
+Blockchain :
 EVM | SOL | BSC | BITTENSOR | POLKADOT | ICP | TON 
