@@ -1,4 +1,4 @@
-AI & Blockchain Engineer
+AI & Blockchain Developer
 
 AI : 
 Python, Django, Tensorflow
