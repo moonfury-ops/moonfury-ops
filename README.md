@@ -1,4 +1,4 @@
-<h1 align="center">🖐️ Technology 🖐️</h1>
+<h1 align="center">💦 Technology 💦</h1>
 <br />
 <table align="center">
 <tr>
